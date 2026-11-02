@@ -11,6 +11,7 @@ Este repositorio es la memoria permanente del proyecto LICITACIONES de Paola Sch
    - `normativa-verificada.md` — citas normativas verificadas (norma, artículo, texto clave, fuente, fecha de verificación).
    - `criterios-dom.md` — criterios adoptados por Pao, con fecha y contexto.
    - `contraloria-y-jurisprudencia.md` — dictámenes CGR y fallos del Tribunal de Contratación Pública relevantes.
+   - `recepcion-y-liquidacion.md` — plazos, paralizaciones, multas, recepciones, retenciones y cierre de contratos.
 2. Si se revisó una licitación concreta, crear o actualizar `licitaciones/<ID>_<obra-breve>/resumen.md` con: ficha, modo (A bases / B ofertas), hallazgos críticos y mayores, decisiones de Pao, pendientes.
 3. Si se modificó una skill, actualizar su copia en `skills/<nombre>/SKILL.md`.
 4. Hacer commit con mensaje descriptivo en español y push a `main`.
