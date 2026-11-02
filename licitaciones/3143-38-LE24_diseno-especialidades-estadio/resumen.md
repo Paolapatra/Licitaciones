@@ -92,3 +92,17 @@ Ninguno de los modos A/B del Consejo: **revisión de acta de recepción definiti
 > I. Municipalidad de Lago Ranco
 
 *(En el registro se omiten los nombres de los representantes del consultor del punto 4; el correo real los individualiza.)*
+
+## Lectura en frío con panel adaptado (02-11-2026)
+
+Prueba de la skill `lectura-en-frio-dom` con panel adaptado a recepción de contrato (E1 admisibilidad, E2 plazos y multas, E3 entregables, E4 jurídico, E5 financiero, E6 Contraloría). Los expertos no conocían la revisión previa. Informe interno: `Informe_Revision_DOM_3143-38-LE24_Recepcion_Definitiva.docx` (carpeta del expediente de Pao).
+
+**Bloqueantes para firmar el texto actual (según E6):** (1) fecha del acta anterior a sus antecedentes; (2) "sin observaciones", "Multas: No aplica" y devolución de retenciones mientras no se acrediten los 20 días SERVIU; (3) falta del Acta Final de Aprobación del ITE (bases 8.3), listado completo y definición del juego de planos de estructura aprobado; (4) frase "la comisión verificó la entrega"; (5) cláusula que "rectifica para todos los efectos" la Recepción Conforme Etapa 4 y afirmación inexacta sobre el año de inicio.
+
+**Hallazgos que solo encontró el panel:** dos juegos de planos de estructura con mismos códigos; acta afirma inexactamente que la Recepción Etapa 4 pone 2026 como inicio; IMIV atribuido también a Dirección de Tránsito; SURALIS 25050 ausente; medidas IMIV fuera del presupuesto; cuenta BCI sin titularidad; retenciones como única fuente de cobro de multa; contradicción de bases (1/1000 diario vs N × UTM); cita art. 17 LGUC sin verificar en la cláusula de alcance DOM.
+
+**Eliminado por E6:** Fiestas Patrias como paralización improcedente (bases 2.5 admite causa calificada por la UT); multa 7.3 a) por garantía.
+
+**Pendientes de decisión de Pao [D]:** C1 provisoria y definitiva en un mismo instrumento con fecha real; C2 constancia neutra + rectificación por el ITE; C3 mantener doble calidad con constancia; C4 acta de observaciones + oficio a UT/Alcalde/Control; C5 no incluir montos de multa en documentos de la comisión.
+
+**Ajustes sugeridos a la skill (no aplicados):** módulo "Recepción de contratos (Ley 19.886)"; grupos propios para contratos; gravedad en dos columnas; separar acta de la comisión y oficios; verificación de citas centralizada (Trifolia quedó sin saldo); preparar expediente en texto excluyendo hallazgos previos.
